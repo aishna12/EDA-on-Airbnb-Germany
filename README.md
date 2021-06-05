@@ -6,6 +6,10 @@
 * [Data Source](#data-source)
 * [Tools](#tools)
 * [Data Preprocessing](#data-preprocessing) 
+  * Feature selection
+  * Missing value treatment
+  * Outlier detection
+  * Correlation Analysis
 * [Visualizations](#visualizations)
   * Graphical visualizations
   * Geo-sptaial visulizations
@@ -51,8 +55,8 @@ The data has been downloaded from [Inside Airbnb](http://insideairbnb.com/get-th
 
 <!-- VISUALIZATIONS-->
 ## Visualizations
-* Graphical visualizations : Bar graphs, histograms, heatmap, line chart, boxplots, pie, waffle and donut charts have been used to draw important inferences about the data.
-* Geospatial visualizations : The density of presence of listings and relative median prices of the neighbourhoods were plotted on the geographical maps of Berlin and Munich to get insights about the geographical density and price distribution of the listings.
+* **Graphical visualizations:** Bar graphs, histograms, heatmap, line chart, boxplots, pie, waffle and donut charts have been used to draw important inferences about the data.
+* **Geospatial visualizations:** The density of presence of listings and relative median prices of the neighbourhoods were plotted on the geographical maps of Berlin and Munich to get insights about the geographical density and price distribution of the listings.
 
 <!--CONCLUSION-->
 ## Conclusion
