@@ -40,13 +40,13 @@ The data has been downloaded from [Inside Airbnb](http://insideairbnb.com/get-th
 
 <!--DATA PREPROCESSING-->
 ## Data Preprocessing
-* Feature selection:
+* **Feature selection:**
   A total of 74 features were available, unnecessary and unusable features were first dropped. Necessary transformation of column values has been done to get started with        preproceesing of data. Extra Tree Regressor technique has been used to extract important amenities avaiable in the Airbnb listings. One hot encoding has been used to encode categorical features.
-* Missing value treatment:
+* **Missing value treatment:**
   Missing values were visualized using a heatmap of feature values. The distribution of various features were plotted on histograms and missing value was imputed based on their distributions and data types. Mostly, the numerical features were imputed with mean value and median value and the categorical features were imputed with the mode value.
-* Outlier detection:
+* **Outlier detection:**
  Outliers were visualized using boxplots. Since, the outliers were mainly leverage points and contained useful information, they weren't removed but the price outliers were transforemd using the quartile range technique to prevent any loss of useful information.
- * Correlation Analysis:
+ * **Correlation Analysis:**
   Correlation matrix was visualized to analyse existence of correlation. Since no major value of correlation coefficient existed between the features, no features were removed.
 
 <!-- VISUALIZATIONS-->
