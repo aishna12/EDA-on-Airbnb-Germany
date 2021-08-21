@@ -26,7 +26,7 @@ Peer-to-peer sharing has changed the way of working in many industries in the la
 ## Data Source
 
 The data has been downloaded from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) website on 22 February 2021.
-we have total number of 25104 rows and 74 columns in our dataset.
+We have total number of 25104 rows and 74 columns in our dataset.
 
 <!--TOOLS-->
 ## Tools
